@@ -1,1 +1,3 @@
-TEST
+This is a project made during The Odin Project fundamentals of HTML course. I had to remake the repository to fix some issues I was having. In this course, I learned a lot about HTML and how to create a basic webpage. I learned about HTML boilerplates, html formatting and type, how to make text appear with headings and paragraphs inside of the body, how to put comments inside html, organized and unorganized lists as well as putting images onto a page; of course also learning about absolute and relative links/images, strong and em for bold/important and italic/emphasized text.
+
+I look forward to continuing to learn the fundamentals from TOP, as it has been a good experience so far.
