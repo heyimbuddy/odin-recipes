@@ -1,0 +1,1 @@
+Recipes project for The Odin Project web development course. Project demonstrating basic HTML skills to create a recipe website linking to relative pages, adding images and displaying text (headings and links)
